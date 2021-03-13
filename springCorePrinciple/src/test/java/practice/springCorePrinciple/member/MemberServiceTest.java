@@ -2,10 +2,11 @@ package practice.springCorePrinciple.member;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
+import practice.springCorePrinciple.AppConfig;
 
 public class MemberServiceTest {
-
-    MemberService memberService = new MemberServiceImpl();
+    private AppConfig appConfig = new AppConfig();
+    private final MemberService memberService = appConfig.memberService();
 
     @Test
     void join() {
