@@ -21,3 +21,9 @@ https://blog.naver.com/qjawnswkd/222274721928<br>
 ### BeanFactory, ApplicationContext 차이
 https://blog.naver.com/qjawnswkd/222274725539<br>
 
+### XML를 이용한 빈 설정 예제
+https://blog.naver.com/qjawnswkd/222274729448<br>
+
+### 스프링 빈 설정 메타 정보(BeanDefinition)
+https://blog.naver.com/qjawnswkd/222274738417<br>
+
