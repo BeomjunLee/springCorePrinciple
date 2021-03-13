@@ -1,4 +1,5 @@
 ## 스프링 핵심 원리
+<img src="https://user-images.githubusercontent.com/69130921/111043205-a7c22480-8484-11eb-803e-861d6f2c6357.png"><br><br>
 
 ### 스프링, 객체 지향 프로그래밍, SOLID
 https://blog.naver.com/qjawnswkd/222273726063<br>
