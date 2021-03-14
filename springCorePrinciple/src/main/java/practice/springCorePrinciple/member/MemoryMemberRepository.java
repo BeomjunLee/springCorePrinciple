@@ -1,8 +1,11 @@
 package practice.springCorePrinciple.member;
 
+import org.springframework.stereotype.Component;
+
 import java.util.HashMap;
 import java.util.Map;
 
+@Component
 public class MemoryMemberRepository implements MemberRepository{
 
     //인메모리 저장소 Hash 이용(동시성 문제 생각안하고 간단하게 테스트만)
