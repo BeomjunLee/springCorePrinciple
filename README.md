@@ -28,3 +28,18 @@ https://blog.naver.com/qjawnswkd/222274729448<br>
 ### 스프링 빈 설정 메타 정보(BeanDefinition)
 https://blog.naver.com/qjawnswkd/222274738417<br>
 
+### 싱글톤(싱글톤 패턴, 싱글톤 문제점, 스프링 컨테이너)
+https://blog.naver.com/qjawnswkd/222275168408<br>
+
+### 싱글톤 방식의 주의점(멀티 스레드 문제)
+https://blog.naver.com/qjawnswkd/222275191901<br>
+
+### 컴포넌트 스캔, 필터, 중복 등록(충돌)
+https://blog.naver.com/qjawnswkd/222275592593<br>
+
+### 다양한 의존관계 주입(생성자, setter, 필드, 일반 메서드), 옵션 처리
+https://blog.naver.com/qjawnswkd/222275622948<br>
+
+### 조회 빈이 여러개 일때 (@Autowired 필드명 매칭, @Qualifier, @Primary)
+https://blog.naver.com/qjawnswkd/222275631534<br>
+
