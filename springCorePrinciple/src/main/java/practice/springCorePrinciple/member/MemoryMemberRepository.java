@@ -1,6 +1,7 @@
 package practice.springCorePrinciple.member;
 
 import org.springframework.stereotype.Component;
+import practice.springCorePrinciple.annotation.MainMemberRepository;
 
 import java.util.HashMap;
 import java.util.Map;

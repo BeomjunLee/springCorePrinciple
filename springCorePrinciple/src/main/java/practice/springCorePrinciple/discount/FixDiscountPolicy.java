@@ -1,9 +1,11 @@
 package practice.springCorePrinciple.discount;
 
+import org.springframework.stereotype.Component;
 import practice.springCorePrinciple.member.Grade;
 import practice.springCorePrinciple.member.Member;
 
 //정액 할인
+@Component
 public class FixDiscountPolicy implements DiscountPolicy{
 
     private int discountFixAmount = 1000;   //천원 고정 할인
