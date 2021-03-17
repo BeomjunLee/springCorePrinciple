@@ -13,6 +13,9 @@ https://blog.naver.com/qjawnswkd/222274333166<br>
 ### Spring 적용 전 - OCP, DIP를 지켜 인터페이스의 구현 클래스 변경
 https://blog.naver.com/qjawnswkd/222274576081<br>
 
+### IoC, DI 란?  IoC, DI 컨테이너 란?
+https://blog.naver.com/qjawnswkd/222274612641<br>
+
 ### Spring 적용 후 - 예제를 스프링으로 전환, @Configuration, @Bean, 스프링 컨테이너, 스프링 빈
 https://blog.naver.com/qjawnswkd/222274669876<br>
 
