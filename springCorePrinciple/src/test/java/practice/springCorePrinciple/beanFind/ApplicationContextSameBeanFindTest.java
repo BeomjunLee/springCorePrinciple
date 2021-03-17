@@ -48,6 +48,7 @@ public class ApplicationContextSameBeanFindTest {
         assertThat(beansOfType.size()).isEqualTo(2);
     }
 
+
     //테스트 안에서만 쓸 스프링 컨테이너 설정
     @Configuration
     static class SameBeanConfig {
