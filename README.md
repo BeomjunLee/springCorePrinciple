@@ -43,3 +43,12 @@ https://blog.naver.com/qjawnswkd/222275622948<br>
 ### 조회 빈이 여러개 일때 (@Autowired 필드명 매칭, @Qualifier, @Primary)
 https://blog.naver.com/qjawnswkd/222275631534<br>
 
+### 조회한 빈이 모두 필요할 때, 자동 or 수동 빈 주입 기준
+https://blog.naver.com/qjawnswkd/222278050886<br>
+
+### Bean 생명 주기, Initializing Disposable Bean, init destroy Method, PostConstruct PreDestroy
+https://blog.naver.com/qjawnswkd/222278842088<br>
+
+### 빈 스코프(프로토타입 스코프, 웹 스코프, Provider, 프록시)
+https://blog.naver.com/qjawnswkd/222279113363<br>
+
